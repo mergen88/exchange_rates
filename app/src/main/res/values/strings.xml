@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Курсы валют</string>
+    <string name="updated">Обновлено:</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="error_action">Повторить</string>
+    <string name="select_money">Выберите валюту</string>
+    <string name="kzt">% тг.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Настройка виджета</string>
+    <string name="add_widget">Добавить виджет</string>
+</resources>

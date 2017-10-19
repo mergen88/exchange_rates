@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/select_layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="kz.mergen.exchagerates.exchangerates.Ui.SelectActivity">
+    <include layout="@layout/toolbar_view"/>
+    <include layout="@layout/progress_bar"/>
+    <include layout="@layout/warning_view"/>
+    <include layout="@layout/recycle_view"/>
+
+
+</LinearLayout>
